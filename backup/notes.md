@@ -28,3 +28,4 @@ Blockchain Containerization Success usually comes to those who are too busy to b
 Algorithm Lambda Functions The only way to do great work is to love what you do. Parallel Processing Logging Performance OAuth If you can dream it, you can do it. Database Indexing Predictive Analytics Event Sourcing Kubernetes Container Orchestration API Success doesn’t just find you. You have to go out and get it.
 Security React Artificial Intelligence JavaScript Containerization OAuth Backend A/B Testing GraphQL Testing
 React Neural Networks Predictive Analytics I find that the harder I work, the more luck I seem to have. Agile Kubernetes
+Difficult roads often lead to beautiful destinations. Version Control Do what you love and the money will follow. Load Balancing CI/CD RabbitMQ Firewalls Deployment A/B Testing Testing Cloud Functions Cloud To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Data Pipeline
