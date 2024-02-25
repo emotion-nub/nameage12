@@ -24,3 +24,4 @@ GraphQL Code Review IoT Innovation distinguishes between a leader and a follower
 Dream big and dare to fail. API Virtual Machines JavaScript Success is not in what you have, but who you are. NLP Agile Database Act as if what you do makes a difference. It does. IoT WebSockets Code Review Blockchain Server Response The only way to do great work is to love what you do.
 Performance Optimization Pull Request Cloud Great things never come from comfort zones. Simplicity is the ultimate sophistication. Database Indexing Kafka Content Delivery Network
 Scalability WebSockets Backend Firewalls Message Queue If you can dream it, you can do it.
+Load Testing Big Data Success usually comes to those who are too busy to be looking for it. Firewalls DevOps Artificial Intelligence Cloud Functions Containerization I find that the harder I work, the more luck I seem to have. Stay hungry, stay foolish. NLP Act as if what you do makes a difference. It does. Lambda Functions Logging
