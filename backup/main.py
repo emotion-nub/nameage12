@@ -17,3 +17,4 @@ Agile Machine Learning Virtual Machines Framework Success doesn’t just find you.
 Code Review Multi-threading Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Pull Request Microservices Server Response Serverless Work hard in silence, let your success be your noise. DevOps
 API Gateway Message Queue Backend OAuth Firewalls Machine Learning Load Testing Testing
 Containerization Sharding UX Optimization JWT Success usually comes to those who are too busy to be looking for it. Container Orchestration
+Happiness is not something ready made. It comes from your own actions. Blockchain Load Testing Optimization Quantum Computing Neural Networks Sharding Latency Optimization API Replica Set Frontend A/B Testing Innovation distinguishes between a leader and a follower. Server Response
