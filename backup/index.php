@@ -16,3 +16,4 @@ Load Testing NLP Deployment Kubernetes Artificial Intelligence
 To be the best, you must be able to handle the worst. Python Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Server Response
 Load Testing Event Sourcing Multi-threading Do what you love and the money will follow. Container Orchestration
 Container Orchestration Deployment Security RabbitMQ Python Neural Networks OAuth Blockchain Parallel Processing Database Indexing API Multi-threading
+Parallel Processing Frontend Edge Computing Virtual Machines If you can dream it, you can do it. Lambda Functions Blockchain Data Science I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. OAuth Python

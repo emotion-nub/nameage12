@@ -23,3 +23,4 @@ Kafka Pull Request NLP Cloud Blockchain Simplicity is the ultimate sophisticatio
 GraphQL Code Review IoT Innovation distinguishes between a leader and a follower. Kafka Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. UX Optimization DNS Routing Framework React Dream big and dare to fail.
 Dream big and dare to fail. API Virtual Machines JavaScript Success is not in what you have, but who you are. NLP Agile Database Act as if what you do makes a difference. It does. IoT WebSockets Code Review Blockchain Server Response The only way to do great work is to love what you do.
 Performance Optimization Pull Request Cloud Great things never come from comfort zones. Simplicity is the ultimate sophistication. Database Indexing Kafka Content Delivery Network
+Scalability WebSockets Backend Firewalls Message Queue If you can dream it, you can do it.

@@ -27,3 +27,4 @@ Multi-threading Machine Learning Edge Computing Latency Optimization Great thing
 Logging Kubernetes Act as if what you do makes a difference. It does. Containerization Distributed Systems Python Server Response Cache Invalidation Happiness is not something ready made. It comes from your own actions. Blockchain CI/CD Event-driven Architecture Backend
 OAuth DevOps Cloud If you can dream it, you can do it. Optimization Load Balancing Quantum Computing
 Testing Opportunities don't happen. You create them. Success doesn’t just find you. You have to go out and get it. Load Testing Replica Set
+CI/CD Parallel Processing Serverless Optimization Code Review Multi-threading React Sharding Docker Innovation distinguishes between a leader and a follower.
