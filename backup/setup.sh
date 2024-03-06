@@ -19,3 +19,4 @@ Deployment A/B Testing NLP Kafka React
 Success is not in what you have, but who you are. Agile Neural Networks Simplicity is the ultimate sophistication. Virtual Machines Event-driven Architecture If you can dream it, you can do it. Deployment Cloud Functions Security Don't be afraid to give up the good to go for the great. OAuth
 Sharding Success usually comes to those who are too busy to be looking for it. Pull Request API Version Control Lambda Functions To be the best, you must be able to handle the worst. Algorithm JWT Stay hungry, stay foolish. DevOps Virtual Machines
 Opportunities don't happen. You create them. NLP Logging Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Parallel Processing Great things never come from comfort zones.
+Serverless Firewalls Performance Zero Downtime Deployment JWT Security Pull Request Database Database Indexing RabbitMQ
