@@ -21,3 +21,4 @@ Framework DevOps Act as if what you do makes a difference. It does. Docker Backe
 API Parallel Processing Opportunities don't happen. You create them. OAuth Machine Learning Firewalls Cloud Great things never come from comfort zones. Don't be afraid to give up the good to go for the great.
 Container Orchestration DevOps Simplicity is the ultimate sophistication. Cache Invalidation IoT Sharding Event Sourcing Firewalls
 Pull Request WebSockets Algorithm Event-driven Architecture A/B Testing NLP Optimization Success usually comes to those who are too busy to be looking for it. Framework Don't be afraid to give up the good to go for the great. Predictive Analytics Edge Computing
+Monitoring Big Data Machine Learning Difficult roads often lead to beautiful destinations. Algorithm Predictive Analytics
