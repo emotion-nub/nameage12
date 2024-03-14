@@ -24,3 +24,4 @@ Containerization Docker Success is not in what you have, but who you are. Contai
 Cloud Backend Serverless Kubernetes Quantum Computing CI/CD
 Firewalls Kafka Cloud Functions Act as if what you do makes a difference. It does. Load Testing Agile Cloud Pull Request Data Science GraphQL
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. Distributed Systems Machine Learning Kubernetes Innovation distinguishes between a leader and a follower. Difficult roads often lead to beautiful destinations. Container Orchestration Code Review
+Python Blockchain Data Science Predictive Analytics Message Queue Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have.
