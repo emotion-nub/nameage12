@@ -16,3 +16,4 @@ Success doesn’t just find you. You have to go out and get it. Event-driven Archi
 OAuth Sharding GraphQL Security Database Indexing Server Response Serverless Success usually comes to those who are too busy to be looking for it. IoT
 Opportunities don't happen. You create them. CI/CD Big Data Dream big and dare to fail. Message Queue A/B Testing Docker Parallel Processing Container Orchestration Load Balancing Framework Cloud Functions Event Sourcing
 Difficult roads often lead to beautiful destinations. OAuth Cloud Firewalls Microservices
+Great things never come from comfort zones. Multi-threading Server Response Framework Happiness is not something ready made. It comes from your own actions. Container Orchestration Dream big and dare to fail. DevOps Python Frontend API Gateway Database Event-driven Architecture Data Science
