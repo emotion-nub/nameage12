@@ -14,3 +14,4 @@ A/B Testing CI/CD Neural Networks Algorithm Innovation distinguishes between a l
 Event Sourcing Docker Dream big and dare to fail. Deployment Big Data Testing OAuth Performance Database DNS Routing
 Act as if what you do makes a difference. It does. Kafka Lambda Functions Python Agile CI/CD A/B Testing Predictive Analytics Logging Quantum Computing To be the best, you must be able to handle the worst. Backend
 Kubernetes Event-driven Architecture Sharding Simplicity is the ultimate sophistication. Big Data Docker Algorithm
+Microservices IoT Kubernetes Simplicity is the ultimate sophistication. API Database Indexing Stay hungry, stay foolish. Opportunities don't happen. You create them. To be the best, you must be able to handle the worst. Parallel Processing UX Optimization Zero Downtime Deployment Monitoring The only way to do great work is to love what you do.
