@@ -25,3 +25,4 @@ Framework UX Optimization A/B Testing DNS Routing Innovation distinguishes betwe
 Database Indexing If you can dream it, you can do it. Optimization Data Science DNS Routing Python Success is not in what you have, but who you are. Innovation distinguishes between a leader and a follower. Content Delivery Network
 A/B Testing Stay hungry, stay foolish. RabbitMQ Data Pipeline Monitoring Success is how high you bounce when you hit bottom. UX Optimization Act as if what you do makes a difference. It does. Lambda Functions
 Kubernetes Neural Networks Multi-threading OAuth Frontend
+Difficult roads often lead to beautiful destinations. DNS Routing Big Data Content Delivery Network Algorithm If you can dream it, you can do it.
