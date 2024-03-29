@@ -18,3 +18,4 @@ Backend Success is how high you bounce when you hit bottom. Latency Optimization
 Virtual Machines Success is how high you bounce when you hit bottom. Multi-threading Predictive Analytics Pull Request Message Queue Parallel Processing Load Balancing Monitoring Load Testing Event-driven Architecture Algorithm API Gateway Testing
 Server Response Do what you love and the money will follow. Data Science Replica Set Lambda Functions
 Framework DevOps Act as if what you do makes a difference. It does. Docker Backend Predictive Analytics Python Kafka Version Control Message Queue Database Distributed Systems
+API Parallel Processing Opportunities don't happen. You create them. OAuth Machine Learning Firewalls Cloud Great things never come from comfort zones. Don't be afraid to give up the good to go for the great.

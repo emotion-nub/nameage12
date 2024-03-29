@@ -20,3 +20,4 @@ Deployment Blockchain Firewalls I find that the harder I work, the more luck I s
 Opportunities don't happen. You create them. Security IoT Success is how high you bounce when you hit bottom. Message Queue Performance Load Balancing If you can dream it, you can do it. Scalability Dream big and dare to fail. DevOps Latency Optimization
 Edge Computing Python Frontend API Containerization Zero Downtime Deployment Database Indexing Kubernetes
 Kafka Pull Request NLP Cloud Blockchain Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Containerization Docker Act as if what you do makes a difference. It does. Automation Agile
+GraphQL Code Review IoT Innovation distinguishes between a leader and a follower. Kafka Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. UX Optimization DNS Routing Framework React Dream big and dare to fail.
