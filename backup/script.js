@@ -13,3 +13,4 @@ Load Balancing Kafka Automation Virtual Machines Serverless Stay hungry, stay fo
 A/B Testing CI/CD Neural Networks Algorithm Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. DNS Routing
 Event Sourcing Docker Dream big and dare to fail. Deployment Big Data Testing OAuth Performance Database DNS Routing
 Act as if what you do makes a difference. It does. Kafka Lambda Functions Python Agile CI/CD A/B Testing Predictive Analytics Logging Quantum Computing To be the best, you must be able to handle the worst. Backend
+Kubernetes Event-driven Architecture Sharding Simplicity is the ultimate sophistication. Big Data Docker Algorithm

@@ -17,3 +17,4 @@ WebSockets Code Review Act as if what you do makes a difference. It does. Succes
 Backend Success is how high you bounce when you hit bottom. Latency Optimization Machine Learning Data Science Opportunities don't happen. You create them. Load Testing GraphQL Scalability React Happiness is not something ready made. It comes from your own actions. Version Control Automation Event Sourcing
 Virtual Machines Success is how high you bounce when you hit bottom. Multi-threading Predictive Analytics Pull Request Message Queue Parallel Processing Load Balancing Monitoring Load Testing Event-driven Architecture Algorithm API Gateway Testing
 Server Response Do what you love and the money will follow. Data Science Replica Set Lambda Functions
+Framework DevOps Act as if what you do makes a difference. It does. Docker Backend Predictive Analytics Python Kafka Version Control Message Queue Database Distributed Systems
