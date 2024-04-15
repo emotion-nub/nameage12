@@ -16,3 +16,4 @@ Algorithm The only way to do great work is to love what you do. Innovation disti
 Agile Machine Learning Virtual Machines Framework Success doesn’t just find you. You have to go out and get it. Server Response Security Logging Microservices JWT Frontend
 Code Review Multi-threading Great things never come from comfort zones. Success doesn’t just find you. You have to go out and get it. Happiness is not something ready made. It comes from your own actions. Pull Request Microservices Server Response Serverless Work hard in silence, let your success be your noise. DevOps
 API Gateway Message Queue Backend OAuth Firewalls Machine Learning Load Testing Testing
+Containerization Sharding UX Optimization JWT Success usually comes to those who are too busy to be looking for it. Container Orchestration
