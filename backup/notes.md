@@ -22,3 +22,4 @@ Cloud Functions Machine Learning A/B Testing Frontend Great things never come fr
 Difficult roads often lead to beautiful destinations. NLP Virtual Machines Multi-threading Quantum Computing Microservices Data Science
 Security Predictive Analytics Neural Networks Blockchain Parallel Processing Success is how high you bounce when you hit bottom.
 Do what you love and the money will follow. Content Delivery Network React Lambda Functions OAuth Event-driven Architecture Python I find that the harder I work, the more luck I seem to have. Message Queue Event Sourcing
+Zero Downtime Deployment Code Review Machine Learning Artificial Intelligence API Security Quantum Computing Performance Success usually comes to those who are too busy to be looking for it. DNS Routing To be the best, you must be able to handle the worst. Monitoring Sharding The only way to do great work is to love what you do. Do what you love and the money will follow.
