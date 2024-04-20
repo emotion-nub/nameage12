@@ -19,3 +19,4 @@ Automation Opportunities don't happen. You create them. Content Delivery Network
 Deployment Blockchain Firewalls I find that the harder I work, the more luck I seem to have. GraphQL Version Control Data Science Message Queue Sharding Cache Invalidation
 Opportunities don't happen. You create them. Security IoT Success is how high you bounce when you hit bottom. Message Queue Performance Load Balancing If you can dream it, you can do it. Scalability Dream big and dare to fail. DevOps Latency Optimization
 Edge Computing Python Frontend API Containerization Zero Downtime Deployment Database Indexing Kubernetes
+Kafka Pull Request NLP Cloud Blockchain Simplicity is the ultimate sophistication. Success doesn’t just find you. You have to go out and get it. Containerization Docker Act as if what you do makes a difference. It does. Automation Agile
