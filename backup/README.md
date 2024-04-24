@@ -22,3 +22,4 @@ Server Response Neural Networks Big Data Latency Optimization Framework Event-dr
 Serverless DNS Routing Pull Request Testing Cloud Agile Stay hungry, stay foolish. Machine Learning
 Success doesn’t just find you. You have to go out and get it. Cloud Artificial Intelligence Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Database Indexing
 Performance Don't be afraid to give up the good to go for the great. Dream big and dare to fail. Neural Networks Content Delivery Network Do what you love and the money will follow. Act as if what you do makes a difference. It does. Event Sourcing
+Automation Agile Big Data Machine Learning JWT Load Testing Microservices Performance If you can dream it, you can do it. Opportunities don't happen. You create them. DNS Routing GraphQL Cache Invalidation
