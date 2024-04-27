@@ -21,3 +21,4 @@ Multi-threading Load Testing The only way to do great work is to love what you d
 Cloud Functions Machine Learning A/B Testing Frontend Great things never come from comfort zones.
 Difficult roads often lead to beautiful destinations. NLP Virtual Machines Multi-threading Quantum Computing Microservices Data Science
 Security Predictive Analytics Neural Networks Blockchain Parallel Processing Success is how high you bounce when you hit bottom.
+Do what you love and the money will follow. Content Delivery Network React Lambda Functions OAuth Event-driven Architecture Python I find that the harder I work, the more luck I seem to have. Message Queue Event Sourcing
