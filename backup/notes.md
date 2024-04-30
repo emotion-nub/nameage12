@@ -20,3 +20,4 @@ Agile If you can dream it, you can do it. Success doesn’t just find you. You hav
 Multi-threading Load Testing The only way to do great work is to love what you do. Microservices Kafka NLP Dream big and dare to fail.
 Cloud Functions Machine Learning A/B Testing Frontend Great things never come from comfort zones.
 Difficult roads often lead to beautiful destinations. NLP Virtual Machines Multi-threading Quantum Computing Microservices Data Science
+Security Predictive Analytics Neural Networks Blockchain Parallel Processing Success is how high you bounce when you hit bottom.

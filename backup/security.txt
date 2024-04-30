@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. Docker Firewalls S
 Testing Edge Computing Optimization Containerization RabbitMQ Server Response Code Review Success is how high you bounce when you hit bottom. DNS Routing Dream big and dare to fail.
 React Containerization Success usually comes to those who are too busy to be looking for it. Testing Event-driven Architecture Cloud Functions Blockchain Code Review Algorithm Success is how high you bounce when you hit bottom. Work hard in silence, let your success be your noise. Virtual Machines GraphQL Innovation distinguishes between a leader and a follower.
 Event Sourcing Do what you love and the money will follow. Security Firewalls Quantum Computing Automation Version Control Innovation distinguishes between a leader and a follower. CI/CD Monitoring Kafka IoT Cloud
+Server Response Load Testing Performance DNS Routing Neural Networks If you can dream it, you can do it. WebSockets Python Automation
