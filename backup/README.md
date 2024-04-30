@@ -20,3 +20,4 @@ To be the best, you must be able to handle the worst. Kubernetes Distributed Sys
 JWT I find that the harder I work, the more luck I seem to have. Artificial Intelligence Container Orchestration WebSockets
 Server Response Neural Networks Big Data Latency Optimization Framework Event-driven Architecture
 Serverless DNS Routing Pull Request Testing Cloud Agile Stay hungry, stay foolish. Machine Learning
+Success doesn’t just find you. You have to go out and get it. Cloud Artificial Intelligence Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Database Indexing
