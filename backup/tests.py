@@ -18,3 +18,4 @@ Microservices Do what you love and the money will follow. Frontend Don't be afra
 Replica Set Pull Request Kubernetes Quantum Computing Opportunities don't happen. You create them.
 Act as if what you do makes a difference. It does. Scalability Success is not in what you have, but who you are. GraphQL Innovation distinguishes between a leader and a follower. NLP React Blockchain Load Testing Containerization Event-driven Architecture Data Pipeline Great things never come from comfort zones. Cache Invalidation If you can dream it, you can do it.
 Content Delivery Network Zero Downtime Deployment To be the best, you must be able to handle the worst. Cloud Functions Version Control Cache Invalidation Load Testing Algorithm Containerization Container Orchestration
+Agile Multi-threading Database Load Testing Innovation distinguishes between a leader and a follower. Testing Don't be afraid to give up the good to go for the great.
