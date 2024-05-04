@@ -14,3 +14,4 @@ Success usually comes to those who are too busy to be looking for it. Replica Se
 Edge Computing JavaScript Opportunities don't happen. You create them. Frontend Logging Distributed Systems Predictive Analytics Backend Serverless Virtual Machines Zero Downtime Deployment
 Artificial Intelligence Pull Request CI/CD Optimization Stay hungry, stay foolish. Load Balancing Work hard in silence, let your success be your noise. Content Delivery Network Serverless React
 WebSockets Code Review Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Automation Scalability Quantum Computing IoT
+Backend Success is how high you bounce when you hit bottom. Latency Optimization Machine Learning Data Science Opportunities don't happen. You create them. Load Testing GraphQL Scalability React Happiness is not something ready made. It comes from your own actions. Version Control Automation Event Sourcing
