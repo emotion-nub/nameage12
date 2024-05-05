@@ -13,3 +13,4 @@ Difficult roads often lead to beautiful destinations. Work hard in silence, let 
 Success usually comes to those who are too busy to be looking for it. Replica Set RabbitMQ Sharding Artificial Intelligence Performance Pull Request Predictive Analytics
 Edge Computing JavaScript Opportunities don't happen. You create them. Frontend Logging Distributed Systems Predictive Analytics Backend Serverless Virtual Machines Zero Downtime Deployment
 Artificial Intelligence Pull Request CI/CD Optimization Stay hungry, stay foolish. Load Balancing Work hard in silence, let your success be your noise. Content Delivery Network Serverless React
+WebSockets Code Review Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Automation Scalability Quantum Computing IoT
