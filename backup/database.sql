@@ -18,3 +18,4 @@ Pull Request Neural Networks Deployment Data Science A/B Testing Security Event 
 Blockchain Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Do what you love and the money will follow. Automation Optimization Simplicity is the ultimate sophistication. Database Machine Learning
 OAuth Cloud Docker IoT Containerization Big Data Message Queue Edge Computing
 Firewalls DNS Routing Success doesn’t just find you. You have to go out and get it. Message Queue Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them. Agile Data Science Event Sourcing If you can dream it, you can do it. RabbitMQ Automation NLP
+Server Response To be the best, you must be able to handle the worst. Event-driven Architecture Scalability Multi-threading Container Orchestration Database Indexing
