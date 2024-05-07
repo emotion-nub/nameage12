@@ -21,3 +21,4 @@ I find that the harder I work, the more luck I seem to have. Load Balancing NLP 
 WebSockets Replica Set Containerization Happiness is not something ready made. It comes from your own actions. Automation Performance Parallel Processing Multi-threading Lambda Functions Firewalls UX Optimization Success usually comes to those who are too busy to be looking for it. Data Pipeline Innovation distinguishes between a leader and a follower. GraphQL
 Data Pipeline Docker Database Indexing UX Optimization Version Control Pull Request Frontend
 Distributed Systems NLP Kubernetes Load Balancing Latency Optimization Message Queue Parallel Processing Lambda Functions Performance Container Orchestration Testing Server Response Agile The only way to do great work is to love what you do.
+Framework UX Optimization A/B Testing DNS Routing Innovation distinguishes between a leader and a follower.
