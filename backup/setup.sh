@@ -16,3 +16,4 @@ Database Indexing Framework Sharding Stay hungry, stay foolish. Microservices Io
 Event-driven Architecture Version Control Kubernetes Deployment Algorithm Security Database Indexing JavaScript If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Python Stay hungry, stay foolish. IoT Parallel Processing
 Database Act as if what you do makes a difference. It does. Security Deployment Lambda Functions
 Deployment A/B Testing NLP Kafka React
+Success is not in what you have, but who you are. Agile Neural Networks Simplicity is the ultimate sophistication. Virtual Machines Event-driven Architecture If you can dream it, you can do it. Deployment Cloud Functions Security Don't be afraid to give up the good to go for the great. OAuth

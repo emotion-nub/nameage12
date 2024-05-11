@@ -11,3 +11,4 @@ Success is how high you bounce when you hit bottom. Database Indexing Simplicity
 RabbitMQ Dream big and dare to fail. Sharding Event Sourcing Database Indexing Parallel Processing Firewalls Monitoring
 Load Balancing Kafka Automation Virtual Machines Serverless Stay hungry, stay foolish. Cloud Frontend
 A/B Testing CI/CD Neural Networks Algorithm Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. DNS Routing
+Event Sourcing Docker Dream big and dare to fail. Deployment Big Data Testing OAuth Performance Database DNS Routing

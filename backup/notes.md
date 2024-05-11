@@ -17,3 +17,4 @@ Serverless Success doesn’t just find you. You have to go out and get it. JavaScr
 Edge Computing Neural Networks Containerization Difficult roads often lead to beautiful destinations. A/B Testing If you can dream it, you can do it. JWT Big Data Logging Happiness is not something ready made. It comes from your own actions. Performance Stay hungry, stay foolish. Distributed Systems Latency Optimization Lambda Functions
 Great things never come from comfort zones. Virtual Machines Framework Opportunities don't happen. You create them. Server Response
 Agile If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Backend Monitoring
+Multi-threading Load Testing The only way to do great work is to love what you do. Microservices Kafka NLP Dream big and dare to fail.
