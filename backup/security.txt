@@ -16,3 +16,4 @@ Python Code Review Deployment Logging WebSockets Big Data Sharding API Gateway M
 OAuth Container Orchestration I find that the harder I work, the more luck I seem to have. Quantum Computing Code Review
 RabbitMQ Do what you love and the money will follow. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. Frontend To be the best, you must be able to handle the worst. GraphQL API Gateway Server Response UX Optimization
 Success doesn’t just find you. You have to go out and get it. Docker Firewalls Security API Gateway Distributed Systems Kubernetes
+Testing Edge Computing Optimization Containerization RabbitMQ Server Response Code Review Success is how high you bounce when you hit bottom. DNS Routing Dream big and dare to fail.
