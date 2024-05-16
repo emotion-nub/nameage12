@@ -15,3 +15,4 @@ Microservices Do what you love and the money will follow. Act as if what you do 
 Database Indexing Framework Sharding Stay hungry, stay foolish. Microservices IoT Happiness is not something ready made. It comes from your own actions. Python Latency Optimization Firewalls Success is how high you bounce when you hit bottom.
 Event-driven Architecture Version Control Kubernetes Deployment Algorithm Security Database Indexing JavaScript If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. Python Stay hungry, stay foolish. IoT Parallel Processing
 Database Act as if what you do makes a difference. It does. Security Deployment Lambda Functions
+Deployment A/B Testing NLP Kafka React
