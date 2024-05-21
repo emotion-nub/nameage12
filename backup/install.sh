@@ -21,3 +21,4 @@ Act as if what you do makes a difference. It does. Containerization Distributed 
 Parallel Processing Predictive Analytics WebSockets Agile IoT Framework GraphQL Quantum Computing Performance Success is not in what you have, but who you are. Automation API Gateway Cloud Microservices Testing
 React Version Control Data Pipeline DevOps Blockchain Don't be afraid to give up the good to go for the great. Framework GraphQL WebSockets Serverless
 Neural Networks Event Sourcing Dream big and dare to fail. Difficult roads often lead to beautiful destinations. API Gateway
+Message Queue Success is how high you bounce when you hit bottom. Frontend Kafka Event Sourcing
