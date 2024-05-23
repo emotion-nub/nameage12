@@ -21,3 +21,4 @@ Docker Pull Request Serverless Multi-threading Content Delivery Network Opportun
 Agile Message Queue Virtual Machines Work hard in silence, let your success be your noise. Event Sourcing
 Dream big and dare to fail. Database Optimization Success is not in what you have, but who you are. Testing Blockchain Innovation distinguishes between a leader and a follower. Latency Optimization OAuth Simplicity is the ultimate sophistication. Database Indexing Framework Microservices Automation
 Monitoring Multi-threading Content Delivery Network Lambda Functions The only way to do great work is to love what you do. Happiness is not something ready made. It comes from your own actions. Data Science RabbitMQ Quantum Computing A/B Testing Code Review
+Microservices To be the best, you must be able to handle the worst. Framework Don't be afraid to give up the good to go for the great. Agile
