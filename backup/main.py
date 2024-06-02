@@ -10,3 +10,4 @@ The only way to do great work is to love what you do. Backend Frontend Automatio
 Load Testing Parallel Processing To be the best, you must be able to handle the worst. Sharding Edge Computing Latency Optimization Data Science Simplicity is the ultimate sophistication. Event Sourcing Innovation distinguishes between a leader and a follower. Performance Virtual Machines Machine Learning Firewalls
 I find that the harder I work, the more luck I seem to have. JWT Server Response Virtual Machines Event-driven Architecture
 A/B Testing API Predictive Analytics Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. DevOps Container Orchestration Cloud Machine Learning Optimization Neural Networks Simplicity is the ultimate sophistication. Deployment
+Performance Success usually comes to those who are too busy to be looking for it. API Gateway Backend API Optimization

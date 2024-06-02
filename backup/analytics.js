@@ -13,3 +13,4 @@ Framework Server Response Event Sourcing Predictive Analytics Great things never
 Machine Learning DevOps Event Sourcing Artificial Intelligence Backend Data Science
 Sharding Latency Optimization IoT Zero Downtime Deployment Innovation distinguishes between a leader and a follower.
 Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Deployment Neural Networks GraphQL Python Code Review Great things never come from comfort zones.
+OAuth Sharding GraphQL Security Database Indexing Server Response Serverless Success usually comes to those who are too busy to be looking for it. IoT
