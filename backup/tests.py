@@ -16,3 +16,4 @@ GraphQL Dream big and dare to fail. RabbitMQ Message Queue CI/CD Security Monito
 DNS Routing Success is not in what you have, but who you are. Load Balancing Microservices Predictive Analytics Artificial Intelligence
 Microservices Do what you love and the money will follow. Frontend Don't be afraid to give up the good to go for the great. Edge Computing IoT Multi-threading
 Replica Set Pull Request Kubernetes Quantum Computing Opportunities don't happen. You create them.
+Act as if what you do makes a difference. It does. Scalability Success is not in what you have, but who you are. GraphQL Innovation distinguishes between a leader and a follower. NLP React Blockchain Load Testing Containerization Event-driven Architecture Data Pipeline Great things never come from comfort zones. Cache Invalidation If you can dream it, you can do it.
