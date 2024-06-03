@@ -12,3 +12,4 @@ JavaScript Latency Optimization Predictive Analytics DevOps Stay hungry, stay fo
 Framework Server Response Event Sourcing Predictive Analytics Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
 Machine Learning DevOps Event Sourcing Artificial Intelligence Backend Data Science
 Sharding Latency Optimization IoT Zero Downtime Deployment Innovation distinguishes between a leader and a follower.
+Success doesn’t just find you. You have to go out and get it. Event-driven Architecture Deployment Neural Networks GraphQL Python Code Review Great things never come from comfort zones.
