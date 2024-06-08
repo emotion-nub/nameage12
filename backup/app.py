@@ -16,3 +16,4 @@ Database Indexing Zero Downtime Deployment Artificial Intelligence Performance D
 Code Review Success is not in what you have, but who you are. Edge Computing Frontend Cloud Cloud Functions Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Load Testing
 Framework Server Response Stay hungry, stay foolish. Deployment Success is how high you bounce when you hit bottom.
 IoT Stay hungry, stay foolish. Pull Request A/B Testing GraphQL Containerization Big Data Success doesn’t just find you. You have to go out and get it. Version Control DNS Routing Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Performance Success is not in what you have, but who you are.
+Work hard in silence, let your success be your noise. Lambda Functions Don't be afraid to give up the good to go for the great. CI/CD UX Optimization
