@@ -11,3 +11,4 @@ I find that the harder I work, the more luck I seem to have. Monitoring Containe
 JavaScript Latency Optimization Predictive Analytics DevOps Stay hungry, stay foolish. NLP Artificial Intelligence
 Framework Server Response Event Sourcing Predictive Analytics Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
 Machine Learning DevOps Event Sourcing Artificial Intelligence Backend Data Science
+Sharding Latency Optimization IoT Zero Downtime Deployment Innovation distinguishes between a leader and a follower.
