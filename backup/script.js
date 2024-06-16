@@ -10,3 +10,4 @@ API Firewalls Success is not in what you have, but who you are. Virtual Machines
 Success is how high you bounce when you hit bottom. Database Indexing Simplicity is the ultimate sophistication. Predictive Analytics A/B Testing Success is not in what you have, but who you are. Security Backend Difficult roads often lead to beautiful destinations.
 RabbitMQ Dream big and dare to fail. Sharding Event Sourcing Database Indexing Parallel Processing Firewalls Monitoring
 Load Balancing Kafka Automation Virtual Machines Serverless Stay hungry, stay foolish. Cloud Frontend
+A/B Testing CI/CD Neural Networks Algorithm Innovation distinguishes between a leader and a follower. Success is not in what you have, but who you are. DNS Routing
