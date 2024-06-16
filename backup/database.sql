@@ -16,3 +16,4 @@ Edge Computing Difficult roads often lead to beautiful destinations. React Succe
 Success is not in what you have, but who you are. RabbitMQ Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Security Blockchain Pull Request Zero Downtime Deployment Load Testing API Gateway Distributed Systems
 Pull Request Neural Networks Deployment Data Science A/B Testing Security Event Sourcing Automation DevOps I find that the harder I work, the more luck I seem to have.
 Blockchain Work hard in silence, let your success be your noise. Act as if what you do makes a difference. It does. Do what you love and the money will follow. Automation Optimization Simplicity is the ultimate sophistication. Database Machine Learning
+OAuth Cloud Docker IoT Containerization Big Data Message Queue Edge Computing
