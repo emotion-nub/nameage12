@@ -15,3 +15,4 @@ CI/CD Predictive Analytics Message Queue Multi-threading DNS Routing Parallel Pr
 Database Indexing Zero Downtime Deployment Artificial Intelligence Performance Do what you love and the money will follow. Cache Invalidation
 Code Review Success is not in what you have, but who you are. Edge Computing Frontend Cloud Cloud Functions Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Load Testing
 Framework Server Response Stay hungry, stay foolish. Deployment Success is how high you bounce when you hit bottom.
+IoT Stay hungry, stay foolish. Pull Request A/B Testing GraphQL Containerization Big Data Success doesn’t just find you. You have to go out and get it. Version Control DNS Routing Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Performance Success is not in what you have, but who you are.
