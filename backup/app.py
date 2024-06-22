@@ -14,3 +14,4 @@ Docker IoT The only way to do great work is to love what you do. Success is how 
 CI/CD Predictive Analytics Message Queue Multi-threading DNS Routing Parallel Processing Event Sourcing Machine Learning Framework Kafka Kubernetes Lambda Functions Cloud Functions
 Database Indexing Zero Downtime Deployment Artificial Intelligence Performance Do what you love and the money will follow. Cache Invalidation
 Code Review Success is not in what you have, but who you are. Edge Computing Frontend Cloud Cloud Functions Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Load Testing
+Framework Server Response Stay hungry, stay foolish. Deployment Success is how high you bounce when you hit bottom.
