@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. OAuth Zero Downtime Deployment DevOps
 Agile Opportunities don't happen. You create them. Database Indexing Data Science Dream big and dare to fail. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Neural Networks Load Balancing Testing IoT
 GraphQL Dream big and dare to fail. RabbitMQ Message Queue CI/CD Security Monitoring
 DNS Routing Success is not in what you have, but who you are. Load Balancing Microservices Predictive Analytics Artificial Intelligence
+Microservices Do what you love and the money will follow. Frontend Don't be afraid to give up the good to go for the great. Edge Computing IoT Multi-threading

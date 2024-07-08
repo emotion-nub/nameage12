@@ -10,3 +10,4 @@ Machine Learning Act as if what you do makes a difference. It does. Cache Invali
 Backend Distributed Systems Predictive Analytics Big Data Parallel Processing Latency Optimization NLP
 Predictive Analytics Blockchain Replica Set Data Science OAuth Frontend Latency Optimization Server Response Data Pipeline Database
 Container Orchestration NLP Deployment Success doesn’t just find you. You have to go out and get it. Security Performance Message Queue
+GraphQL The only way to do great work is to love what you do. JWT Load Balancing Kafka Opportunities don't happen. You create them. Great things never come from comfort zones.

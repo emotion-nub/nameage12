@@ -18,3 +18,4 @@ Event-driven Architecture Act as if what you do makes a difference. It does. Ser
 Python DNS Routing Logging DevOps Opportunities don't happen. You create them. Automation Server Response Do what you love and the money will follow. Optimization Framework Innovation distinguishes between a leader and a follower. Event-driven Architecture Kubernetes Quantum Computing
 React DNS Routing Python Cloud Containerization Cloud Functions Multi-threading JWT Automation Innovation distinguishes between a leader and a follower. Blockchain Difficult roads often lead to beautiful destinations.
 Act as if what you do makes a difference. It does. Containerization Distributed Systems Algorithm Logging Backend Microservices CI/CD Optimization Quantum Computing Message Queue
+Parallel Processing Predictive Analytics WebSockets Agile IoT Framework GraphQL Quantum Computing Performance Success is not in what you have, but who you are. Automation API Gateway Cloud Microservices Testing
