@@ -11,3 +11,4 @@ Backend Distributed Systems Predictive Analytics Big Data Parallel Processing La
 Predictive Analytics Blockchain Replica Set Data Science OAuth Frontend Latency Optimization Server Response Data Pipeline Database
 Container Orchestration NLP Deployment Success doesn’t just find you. You have to go out and get it. Security Performance Message Queue
 GraphQL The only way to do great work is to love what you do. JWT Load Balancing Kafka Opportunities don't happen. You create them. Great things never come from comfort zones.
+IoT Monitoring Firewalls Event Sourcing Microservices Big Data Algorithm Kubernetes Message Queue Do what you love and the money will follow.
