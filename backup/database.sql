@@ -14,3 +14,4 @@ Automation NLP Multi-threading Dream big and dare to fail. Pull Request Stay hun
 Framework Cache Invalidation Sharding Load Balancing Replica Set Simplicity is the ultimate sophistication.
 Edge Computing Difficult roads often lead to beautiful destinations. React Success is not in what you have, but who you are. UX Optimization Message Queue Container Orchestration Python Machine Learning JWT Scalability Logging Automation
 Success is not in what you have, but who you are. RabbitMQ Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Security Blockchain Pull Request Zero Downtime Deployment Load Testing API Gateway Distributed Systems
+Pull Request Neural Networks Deployment Data Science A/B Testing Security Event Sourcing Automation DevOps I find that the harder I work, the more luck I seem to have.
