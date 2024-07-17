@@ -13,3 +13,4 @@ Database Deployment Stay hungry, stay foolish. Server Response Success doesn’t j
 Docker IoT The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower.
 CI/CD Predictive Analytics Message Queue Multi-threading DNS Routing Parallel Processing Event Sourcing Machine Learning Framework Kafka Kubernetes Lambda Functions Cloud Functions
 Database Indexing Zero Downtime Deployment Artificial Intelligence Performance Do what you love and the money will follow. Cache Invalidation
+Code Review Success is not in what you have, but who you are. Edge Computing Frontend Cloud Cloud Functions Simplicity is the ultimate sophistication. Success is how high you bounce when you hit bottom. Neural Networks Kubernetes Load Testing
