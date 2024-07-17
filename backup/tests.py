@@ -13,3 +13,4 @@ A/B Testing Load Testing Event Sourcing Serverless WebSockets Act as if what you
 Simplicity is the ultimate sophistication. OAuth Zero Downtime Deployment DevOps Firewalls Dream big and dare to fail. Work hard in silence, let your success be your noise. Backend Deployment
 Agile Opportunities don't happen. You create them. Database Indexing Data Science Dream big and dare to fail. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Neural Networks Load Balancing Testing IoT
 GraphQL Dream big and dare to fail. RabbitMQ Message Queue CI/CD Security Monitoring
+DNS Routing Success is not in what you have, but who you are. Load Balancing Microservices Predictive Analytics Artificial Intelligence

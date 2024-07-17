@@ -17,3 +17,4 @@ Multi-threading Happiness is not something ready made. It comes from your own ac
 Lambda Functions RabbitMQ DevOps Agile Blockchain Artificial Intelligence NLP Monitoring Work hard in silence, let your success be your noise. Version Control Edge Computing Predictive Analytics JWT Cloud Backend
 Automation Opportunities don't happen. You create them. Content Delivery Network Container Orchestration Artificial Intelligence API Data Pipeline OAuth If you can dream it, you can do it. Parallel Processing GraphQL Dream big and dare to fail.
 Deployment Blockchain Firewalls I find that the harder I work, the more luck I seem to have. GraphQL Version Control Data Science Message Queue Sharding Cache Invalidation
+Opportunities don't happen. You create them. Security IoT Success is how high you bounce when you hit bottom. Message Queue Performance Load Balancing If you can dream it, you can do it. Scalability Dream big and dare to fail. DevOps Latency Optimization
