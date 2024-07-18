@@ -19,3 +19,4 @@ Optimization Logging The only way to do great work is to love what you do. I fin
 If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Sharding Event-driven Architecture JavaScript Zero Downtime Deployment
 Docker Pull Request Serverless Multi-threading Content Delivery Network Opportunities don't happen. You create them. Data Pipeline
 Agile Message Queue Virtual Machines Work hard in silence, let your success be your noise. Event Sourcing
+Dream big and dare to fail. Database Optimization Success is not in what you have, but who you are. Testing Blockchain Innovation distinguishes between a leader and a follower. Latency Optimization OAuth Simplicity is the ultimate sophistication. Database Indexing Framework Microservices Automation
