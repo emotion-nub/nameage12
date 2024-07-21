@@ -15,3 +15,4 @@ Virtual Machines A/B Testing Don't be afraid to give up the good to go for the g
 I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. Microservices Automation Quantum Computing Opportunities don't happen. You create them. Blockchain IoT To be the best, you must be able to handle the worst. Dream big and dare to fail.
 Algorithm Big Data Data Pipeline Quantum Computing I find that the harder I work, the more luck I seem to have.
 Python DevOps Don't be afraid to give up the good to go for the great. Deployment Zero Downtime Deployment JWT Dream big and dare to fail. Load Testing Serverless Big Data Opportunities don't happen. You create them. Logging Content Delivery Network Agile Pull Request
+NLP Serverless Automation Stay hungry, stay foolish. Microservices Opportunities don't happen. You create them. JWT Simplicity is the ultimate sophistication. A/B Testing
