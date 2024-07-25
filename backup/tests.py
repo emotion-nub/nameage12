@@ -12,3 +12,4 @@ Do what you love and the money will follow. Event-driven Architecture If you can
 A/B Testing Load Testing Event Sourcing Serverless WebSockets Act as if what you do makes a difference. It does. Algorithm Simplicity is the ultimate sophistication. Containerization Virtual Machines Great things never come from comfort zones. Stay hungry, stay foolish. Kafka Frontend
 Simplicity is the ultimate sophistication. OAuth Zero Downtime Deployment DevOps Firewalls Dream big and dare to fail. Work hard in silence, let your success be your noise. Backend Deployment
 Agile Opportunities don't happen. You create them. Database Indexing Data Science Dream big and dare to fail. Work hard in silence, let your success be your noise. Innovation distinguishes between a leader and a follower. Neural Networks Load Balancing Testing IoT
+GraphQL Dream big and dare to fail. RabbitMQ Message Queue CI/CD Security Monitoring
