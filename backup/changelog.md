@@ -14,3 +14,4 @@ Python OAuth Event-driven Architecture Firewalls Don't be afraid to give up the 
 RabbitMQ Algorithm Performance Latency Optimization JavaScript Frontend Event Sourcing Multi-threading
 Artificial Intelligence Backend RabbitMQ Success doesn’t just find you. You have to go out and get it. IoT Database Performance
 Cache Invalidation Don't be afraid to give up the good to go for the great. Data Pipeline Event-driven Architecture Parallel Processing Docker Kafka Backend Frontend Load Balancing
+If you can dream it, you can do it. API Gateway Parallel Processing Microservices Data Pipeline Deployment Performance Optimization Automation Docker Scalability Lambda Functions Cloud Functions Container Orchestration
