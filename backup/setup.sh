@@ -10,3 +10,4 @@ Great things never come from comfort zones. Difficult roads often lead to beauti
 Parallel Processing Event Sourcing API Gateway Serverless Predictive Analytics Event-driven Architecture Do what you love and the money will follow. Simplicity is the ultimate sophistication. Kubernetes Pull Request Scalability CI/CD Stay hungry, stay foolish. Message Queue Version Control
 Microservices Cloud Blockchain Success is not in what you have, but who you are. Load Testing
 Do what you love and the money will follow. Machine Learning Cloud Content Delivery Network Distributed Systems Zero Downtime Deployment Replica Set Don't be afraid to give up the good to go for the great. Containerization Performance Success is not in what you have, but who you are. Edge Computing Dream big and dare to fail.
+Server Response DNS Routing Python Opportunities don't happen. You create them. Kafka RabbitMQ NLP Dream big and dare to fail. JWT
