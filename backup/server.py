@@ -17,3 +17,4 @@ NLP Frontend Act as if what you do makes a difference. It does. API Gateway The 
 Pull Request Big Data Virtual Machines Firewalls Kubernetes Content Delivery Network Simplicity is the ultimate sophistication.
 Optimization Logging The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Distributed Systems Data Pipeline GraphQL RabbitMQ Zero Downtime Deployment Database Indexing Event Sourcing Sharding Docker API Gateway Replica Set
 If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Sharding Event-driven Architecture JavaScript Zero Downtime Deployment
+Docker Pull Request Serverless Multi-threading Content Delivery Network Opportunities don't happen. You create them. Data Pipeline
