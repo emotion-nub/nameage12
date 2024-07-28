@@ -12,3 +12,4 @@ JavaScript Difficult roads often lead to beautiful destinations. Microservices B
 Database Deployment Stay hungry, stay foolish. Server Response Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Container Orchestration Cache Invalidation Event-driven Architecture Work hard in silence, let your success be your noise.
 Docker IoT The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower.
 CI/CD Predictive Analytics Message Queue Multi-threading DNS Routing Parallel Processing Event Sourcing Machine Learning Framework Kafka Kubernetes Lambda Functions Cloud Functions
+Database Indexing Zero Downtime Deployment Artificial Intelligence Performance Do what you love and the money will follow. Cache Invalidation
