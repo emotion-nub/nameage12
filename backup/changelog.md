@@ -13,3 +13,4 @@ Logging Version Control Monitoring Neural Networks Serverless Server Response Si
 Python OAuth Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Multi-threading Quantum Computing Frontend Docker Pull Request Difficult roads often lead to beautiful destinations. Replica Set Lambda Functions Neural Networks Performance
 RabbitMQ Algorithm Performance Latency Optimization JavaScript Frontend Event Sourcing Multi-threading
 Artificial Intelligence Backend RabbitMQ Success doesn’t just find you. You have to go out and get it. IoT Database Performance
+Cache Invalidation Don't be afraid to give up the good to go for the great. Data Pipeline Event-driven Architecture Parallel Processing Docker Kafka Backend Frontend Load Balancing
