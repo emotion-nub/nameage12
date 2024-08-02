@@ -9,3 +9,4 @@ Dream big and dare to fail. Success is not in what you have, but who you are. Re
 Machine Learning Act as if what you do makes a difference. It does. Cache Invalidation Serverless Difficult roads often lead to beautiful destinations. Backend Security Opportunities don't happen. You create them. Virtual Machines
 Backend Distributed Systems Predictive Analytics Big Data Parallel Processing Latency Optimization NLP
 Predictive Analytics Blockchain Replica Set Data Science OAuth Frontend Latency Optimization Server Response Data Pipeline Database
+Container Orchestration NLP Deployment Success doesn’t just find you. You have to go out and get it. Security Performance Message Queue

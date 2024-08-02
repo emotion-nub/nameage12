@@ -10,3 +10,4 @@ Big Data Neural Networks Difficult roads often lead to beautiful destinations. C
 Load Testing DNS Routing Event-driven Architecture Do what you love and the money will follow. Security Logging Code Review Event Sourcing
 Do what you love and the money will follow. Event-driven Architecture If you can dream it, you can do it. Success is not in what you have, but who you are. Firewalls Success doesn’t just find you. You have to go out and get it.
 A/B Testing Load Testing Event Sourcing Serverless WebSockets Act as if what you do makes a difference. It does. Algorithm Simplicity is the ultimate sophistication. Containerization Virtual Machines Great things never come from comfort zones. Stay hungry, stay foolish. Kafka Frontend
+Simplicity is the ultimate sophistication. OAuth Zero Downtime Deployment DevOps Firewalls Dream big and dare to fail. Work hard in silence, let your success be your noise. Backend Deployment
