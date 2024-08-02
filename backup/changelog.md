@@ -12,3 +12,4 @@ Load Testing Success is how high you bounce when you hit bottom. Artificial Inte
 Logging Version Control Monitoring Neural Networks Serverless Server Response Simplicity is the ultimate sophistication. Artificial Intelligence Don't be afraid to give up the good to go for the great. Quantum Computing
 Python OAuth Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Multi-threading Quantum Computing Frontend Docker Pull Request Difficult roads often lead to beautiful destinations. Replica Set Lambda Functions Neural Networks Performance
 RabbitMQ Algorithm Performance Latency Optimization JavaScript Frontend Event Sourcing Multi-threading
+Artificial Intelligence Backend RabbitMQ Success doesn’t just find you. You have to go out and get it. IoT Database Performance
