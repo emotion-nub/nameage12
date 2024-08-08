@@ -11,3 +11,4 @@ DevOps The only way to do great work is to love what you do. Do what you love an
 Load Testing Success is how high you bounce when you hit bottom. Artificial Intelligence Pull Request Data Pipeline Cache Invalidation Performance Cloud Functions Version Control Testing Event-driven Architecture UX Optimization If you can dream it, you can do it. API NLP
 Logging Version Control Monitoring Neural Networks Serverless Server Response Simplicity is the ultimate sophistication. Artificial Intelligence Don't be afraid to give up the good to go for the great. Quantum Computing
 Python OAuth Event-driven Architecture Firewalls Don't be afraid to give up the good to go for the great. Multi-threading Quantum Computing Frontend Docker Pull Request Difficult roads often lead to beautiful destinations. Replica Set Lambda Functions Neural Networks Performance
+RabbitMQ Algorithm Performance Latency Optimization JavaScript Frontend Event Sourcing Multi-threading

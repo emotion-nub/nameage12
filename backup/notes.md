@@ -13,3 +13,4 @@ Load Balancing Neural Networks Content Delivery Network Edge Computing If you ca
 Simplicity is the ultimate sophistication. Algorithm Kubernetes Database Indexing Success usually comes to those who are too busy to be looking for it.
 Lambda Functions Load Balancing Framework Frontend Act as if what you do makes a difference. It does. Containerization NLP JavaScript Data Pipeline Pull Request Event Sourcing
 Do what you love and the money will follow. Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Logging JWT Cloud Functions
+Serverless Success doesn’t just find you. You have to go out and get it. JavaScript Backend Content Delivery Network Security Difficult roads often lead to beautiful destinations. Big Data Event-driven Architecture
