@@ -11,3 +11,4 @@ Success usually comes to those who are too busy to be looking for it. The only w
 Frontend I find that the harder I work, the more luck I seem to have. Data Science Serverless Load Balancing A/B Testing Virtual Machines Stay hungry, stay foolish. Containerization Deployment Big Data Content Delivery Network Microservices
 Load Balancing Neural Networks Content Delivery Network Edge Computing If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Great things never come from comfort zones. Sharding RabbitMQ Replica Set
 Simplicity is the ultimate sophistication. Algorithm Kubernetes Database Indexing Success usually comes to those who are too busy to be looking for it.
+Lambda Functions Load Balancing Framework Frontend Act as if what you do makes a difference. It does. Containerization NLP JavaScript Data Pipeline Pull Request Event Sourcing
