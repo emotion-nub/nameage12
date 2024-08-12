@@ -10,3 +10,4 @@ DevOps Agile Big Data Pull Request Message Queue Stay hungry, stay foolish. Mult
 GraphQL Machine Learning Big Data Success usually comes to those who are too busy to be looking for it. Distributed Systems Neural Networks
 JavaScript Difficult roads often lead to beautiful destinations. Microservices Big Data Frontend Act as if what you do makes a difference. It does. Event-driven Architecture Serverless If you can dream it, you can do it.
 Database Deployment Stay hungry, stay foolish. Server Response Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Container Orchestration Cache Invalidation Event-driven Architecture Work hard in silence, let your success be your noise.
+Docker IoT The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower.
