@@ -7,3 +7,4 @@ Optimization Dream big and dare to fail. Machine Learning I find that the harder
 Serverless Work hard in silence, let your success be your noise. NLP Automation JWT CI/CD IoT Containerization
 Virtual Machines Big Data Stay hungry, stay foolish. Cache Invalidation Message Queue
 The only way to do great work is to love what you do. Backend Frontend Automation DNS Routing If you can dream it, you can do it.
+Load Testing Parallel Processing To be the best, you must be able to handle the worst. Sharding Edge Computing Latency Optimization Data Science Simplicity is the ultimate sophistication. Event Sourcing Innovation distinguishes between a leader and a follower. Performance Virtual Machines Machine Learning Firewalls
