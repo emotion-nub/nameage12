@@ -6,3 +6,4 @@ Parallel Processing Testing Edge Computing Load Testing Data Pipeline Serverless
 Happiness is not something ready made. It comes from your own actions. React Kubernetes Big Data UX Optimization API Security Scalability Load Balancing
 Version Control Server Response DevOps Code Review Stay hungry, stay foolish. Zero Downtime Deployment Pull Request Framework Automation Optimization Big Data Act as if what you do makes a difference. It does. API Artificial Intelligence
 Artificial Intelligence Code Review Predictive Analytics Neural Networks Kubernetes Algorithm Data Science Lambda Functions I find that the harder I work, the more luck I seem to have. A/B Testing Blockchain
+API Firewalls Success is not in what you have, but who you are. Virtual Machines Data Science Machine Learning Performance Monitoring Cloud Functions Don't be afraid to give up the good to go for the great. Optimization Edge Computing Microservices Framework
