@@ -8,3 +8,4 @@ Server Response Virtual Machines React RabbitMQ Microservices Event-driven Archi
 Optimization Pull Request Content Delivery Network WebSockets Performance Predictive Analytics Great things never come from comfort zones.
 DevOps Agile Big Data Pull Request Message Queue Stay hungry, stay foolish. Multi-threading
 GraphQL Machine Learning Big Data Success usually comes to those who are too busy to be looking for it. Distributed Systems Neural Networks
+JavaScript Difficult roads often lead to beautiful destinations. Microservices Big Data Frontend Act as if what you do makes a difference. It does. Event-driven Architecture Serverless If you can dream it, you can do it.
