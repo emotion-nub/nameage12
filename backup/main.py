@@ -6,3 +6,4 @@ Multi-threading Content Delivery Network Load Balancing Data Pipeline Opportunit
 Optimization Dream big and dare to fail. Machine Learning I find that the harder I work, the more luck I seem to have. Testing Neural Networks Database Indexing Deployment Python Data Science Automation Success is how high you bounce when you hit bottom.
 Serverless Work hard in silence, let your success be your noise. NLP Automation JWT CI/CD IoT Containerization
 Virtual Machines Big Data Stay hungry, stay foolish. Cache Invalidation Message Queue
+The only way to do great work is to love what you do. Backend Frontend Automation DNS Routing If you can dream it, you can do it.
