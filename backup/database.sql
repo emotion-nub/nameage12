@@ -10,3 +10,4 @@ Dream big and dare to fail. Quantum Computing Code Review JWT Artificial Intelli
 Microservices Container Orchestration If you can dream it, you can do it. GraphQL Zero Downtime Deployment Python Data Science Code Review Pull Request Machine Learning Blockchain Big Data The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
 Backend Latency Optimization NLP Distributed Systems Containerization Difficult roads often lead to beautiful destinations. Predictive Analytics The only way to do great work is to love what you do. CI/CD
 Cloud React Stay hungry, stay foolish. Big Data Load Balancing Quantum Computing Cloud Functions
+Automation NLP Multi-threading Dream big and dare to fail. Pull Request Stay hungry, stay foolish. OAuth Security Serverless Predictive Analytics Opportunities don't happen. You create them. Database Indexing Simplicity is the ultimate sophistication. Docker API Gateway
