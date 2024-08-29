@@ -9,3 +9,4 @@ Code Review Containerization Testing Kubernetes JavaScript
 Distributed Systems API Gateway Testing Difficult roads often lead to beautiful destinations. Cloud Functions If you can dream it, you can do it. Edge Computing Serverless
 I find that the harder I work, the more luck I seem to have. Monitoring Containerization JavaScript Edge Computing DNS Routing Dream big and dare to fail. Kafka Quantum Computing Deployment Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations. If you can dream it, you can do it.
 JavaScript Latency Optimization Predictive Analytics DevOps Stay hungry, stay foolish. NLP Artificial Intelligence
+Framework Server Response Event Sourcing Predictive Analytics Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions.
