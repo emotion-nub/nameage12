@@ -9,3 +9,4 @@ Event-driven Architecture API CI/CD Quantum Computing Serverless Automation Diff
 Dream big and dare to fail. Quantum Computing Code Review JWT Artificial Intelligence Big Data Version Control CI/CD I find that the harder I work, the more luck I seem to have. Framework
 Microservices Container Orchestration If you can dream it, you can do it. GraphQL Zero Downtime Deployment Python Data Science Code Review Pull Request Machine Learning Blockchain Big Data The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
 Backend Latency Optimization NLP Distributed Systems Containerization Difficult roads often lead to beautiful destinations. Predictive Analytics The only way to do great work is to love what you do. CI/CD
+Cloud React Stay hungry, stay foolish. Big Data Load Balancing Quantum Computing Cloud Functions
