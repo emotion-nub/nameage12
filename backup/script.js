@@ -5,3 +5,4 @@ Machine Learning Performance OAuth Version Control Message Queue CI/CD UX Optimi
 Parallel Processing Testing Edge Computing Load Testing Data Pipeline Serverless Frontend A/B Testing API Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. React Kubernetes Big Data UX Optimization API Security Scalability Load Balancing
 Version Control Server Response DevOps Code Review Stay hungry, stay foolish. Zero Downtime Deployment Pull Request Framework Automation Optimization Big Data Act as if what you do makes a difference. It does. API Artificial Intelligence
+Artificial Intelligence Code Review Predictive Analytics Neural Networks Kubernetes Algorithm Data Science Lambda Functions I find that the harder I work, the more luck I seem to have. A/B Testing Blockchain
