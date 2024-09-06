@@ -13,3 +13,4 @@ Server Response Backend Security Do what you love and the money will follow. UX 
 OAuth Blockchain Virtual Machines Docker API A/B Testing Innovation distinguishes between a leader and a follower. Pull Request Difficult roads often lead to beautiful destinations. Zero Downtime Deployment GraphQL
 Code Review Zero Downtime Deployment DevOps Load Balancing Version Control Algorithm Cloud Functions Backend Virtual Machines Containerization Monitoring The only way to do great work is to love what you do. Data Pipeline Big Data Cache Invalidation
 Multi-threading Don't be afraid to give up the good to go for the great. Security Agile Cache Invalidation DevOps RabbitMQ
+NLP Frontend Act as if what you do makes a difference. It does. API Gateway The only way to do great work is to love what you do. Data Pipeline DNS Routing
