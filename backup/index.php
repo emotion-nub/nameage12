@@ -8,3 +8,4 @@ Lambda Functions Great things never come from comfort zones. Virtual Machines Op
 Dream big and dare to fail. Success is not in what you have, but who you are. React Lambda Functions Optimization Multi-threading Machine Learning Happiness is not something ready made. It comes from your own actions. Cloud Functions Message Queue Do what you love and the money will follow.
 Machine Learning Act as if what you do makes a difference. It does. Cache Invalidation Serverless Difficult roads often lead to beautiful destinations. Backend Security Opportunities don't happen. You create them. Virtual Machines
 Backend Distributed Systems Predictive Analytics Big Data Parallel Processing Latency Optimization NLP
+Predictive Analytics Blockchain Replica Set Data Science OAuth Frontend Latency Optimization Server Response Data Pipeline Database
