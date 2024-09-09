@@ -14,3 +14,4 @@ Edge Computing DNS Routing To be the best, you must be able to handle the worst.
 Data Pipeline Multi-threading IoT The only way to do great work is to love what you do. Do what you love and the money will follow.
 Don't be afraid to give up the good to go for the great. API Gateway Predictive Analytics OAuth Agile Database Testing Sharding Do what you love and the money will follow. Microservices WebSockets
 Multi-threading Happiness is not something ready made. It comes from your own actions. Event-driven Architecture Opportunities don't happen. You create them. Don't be afraid to give up the good to go for the great. DevOps Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Microservices
+Lambda Functions RabbitMQ DevOps Agile Blockchain Artificial Intelligence NLP Monitoring Work hard in silence, let your success be your noise. Version Control Edge Computing Predictive Analytics JWT Cloud Backend
