@@ -13,3 +13,4 @@ Success is not in what you have, but who you are. Monitoring Firewalls Lambda Fu
 Data Pipeline Dream big and dare to fail. Kubernetes Testing Serverless WebSockets Cloud Functions Lambda Functions Predictive Analytics Firewalls JavaScript Great things never come from comfort zones.
 Server Response Latency Optimization Zero Downtime Deployment Data Science Agile IoT DNS Routing Deployment Predictive Analytics Container Orchestration Optimization Message Queue
 Event Sourcing DevOps To be the best, you must be able to handle the worst. Load Testing GraphQL Don't be afraid to give up the good to go for the great. JWT Security
+Event Sourcing RabbitMQ Data Pipeline Do what you love and the money will follow. Neural Networks Parallel Processing Containerization Machine Learning NLP Content Delivery Network Security Success usually comes to those who are too busy to be looking for it. Distributed Systems DevOps
