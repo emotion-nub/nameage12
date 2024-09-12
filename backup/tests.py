@@ -6,3 +6,4 @@ Happiness is not something ready made. It comes from your own actions. Kafka Edg
 Data Science DevOps NLP Serverless React I find that the harder I work, the more luck I seem to have. Parallel Processing
 Frontend UX Optimization Data Science Content Delivery Network Version Control Containerization Scalability DNS Routing GraphQL WebSockets
 React API Gateway Multi-threading Version Control Difficult roads often lead to beautiful destinations. Great things never come from comfort zones. Code Review Zero Downtime Deployment Sharding Neural Networks Server Response API I find that the harder I work, the more luck I seem to have. Lambda Functions
+Big Data Neural Networks Difficult roads often lead to beautiful destinations. CI/CD A/B Testing Algorithm Happiness is not something ready made. It comes from your own actions. API Pull Request Load Testing Monitoring Python Dream big and dare to fail.
