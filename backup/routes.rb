@@ -3,3 +3,4 @@ Serverless IoT Agile Latency Optimization Opportunities don't happen. You create
 Multi-threading Performance Blockchain Kafka Replica Set Do what you love and the money will follow.
 DNS Routing React I find that the harder I work, the more luck I seem to have. Python Data Pipeline Server Response Parallel Processing Cloud
 Dream big and dare to fail. Agile Zero Downtime Deployment Distributed Systems Happiness is not something ready made. It comes from your own actions. RabbitMQ Multi-threading Success is how high you bounce when you hit bottom. GraphQL Success usually comes to those who are too busy to be looking for it. Deployment The only way to do great work is to love what you do.
+Serverless Microservices Pull Request Multi-threading Quantum Computing Data Pipeline API Zero Downtime Deployment Cloud Don't be afraid to give up the good to go for the great. DNS Routing Security Logging
