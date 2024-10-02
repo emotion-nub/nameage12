@@ -4,3 +4,4 @@ Data Science Latency Optimization Logging Distributed Systems DNS Routing Zero D
 CI/CD Do what you love and the money will follow. Security Testing DevOps GraphQL Great things never come from comfort zones. Database Indexing Dream big and dare to fail. Predictive Analytics Data Pipeline
 Neural Networks Parallel Processing Message Queue Don't be afraid to give up the good to go for the great. Cloud Containerization API Gateway Big Data Simplicity is the ultimate sophistication. Monitoring Predictive Analytics Success is not in what you have, but who you are.
 Dream big and dare to fail. IoT Cloud A/B Testing If you can dream it, you can do it. API Gateway
+Lambda Functions Great things never come from comfort zones. Virtual Machines Optimization Firewalls Testing
