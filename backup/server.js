@@ -9,3 +9,4 @@ Performance Server Response Opportunities don't happen. You create them. UX Opti
 JavaScript Edge Computing CI/CD Firewalls UX Optimization
 Cloud Microservices Python Latency Optimization Pull Request Agile Database Scalability Serverless JavaScript
 Success usually comes to those who are too busy to be looking for it. Load Testing Content Delivery Network Neural Networks Security Difficult roads often lead to beautiful destinations.
+Firewalls Distributed Systems DevOps Kafka JWT Kubernetes Performance Scalability
