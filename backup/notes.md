@@ -6,3 +6,4 @@ OAuth NLP Lambda Functions Kubernetes Happiness is not something ready made. It 
 Predictive Analytics Distributed Systems Kubernetes Message Queue Replica Set Logging API Gateway
 API Pull Request Container Orchestration Performance Success doesn’t just find you. You have to go out and get it. Load Testing Lambda Functions Virtual Machines Serverless Docker Logging Load Balancing Cloud Deployment
 React Happiness is not something ready made. It comes from your own actions. Edge Computing GraphQL Difficult roads often lead to beautiful destinations. Replica Set Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great.
+API Testing API Gateway Quantum Computing Distributed Systems Happiness is not something ready made. It comes from your own actions.
