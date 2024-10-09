@@ -10,3 +10,4 @@ Containerization Framework Agile Edge Computing OAuth Testing Work hard in silen
 Load Balancing Docker JWT The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. CI/CD RabbitMQ Microservices
 Monitoring Opportunities don't happen. You create them. Predictive Analytics JWT Quantum Computing WebSockets OAuth RabbitMQ Cloud Dream big and dare to fail. Automation
 Success is not in what you have, but who you are. Monitoring Firewalls Lambda Functions JavaScript Frontend Database Happiness is not something ready made. It comes from your own actions. Automation JWT Container Orchestration Cloud Docker Pull Request
+Data Pipeline Dream big and dare to fail. Kubernetes Testing Serverless WebSockets Cloud Functions Lambda Functions Predictive Analytics Firewalls JavaScript Great things never come from comfort zones.
