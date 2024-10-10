@@ -10,3 +10,4 @@ Multi-threading Cache Invalidation Opportunities don't happen. You create them. 
 IoT NLP JWT Success doesn’t just find you. You have to go out and get it. Container Orchestration Logging Testing Big Data Kafka
 Containerization Multi-threading Kafka Python Database I find that the harder I work, the more luck I seem to have. Docker Logging Message Queue Optimization Blockchain
 Sharding Data Pipeline Parallel Processing Monitoring Database Indexing Work hard in silence, let your success be your noise. Backend RabbitMQ Algorithm
+Automation Do what you love and the money will follow. IoT Pull Request The only way to do great work is to love what you do. Zero Downtime Deployment Microservices Docker To be the best, you must be able to handle the worst. Content Delivery Network Success usually comes to those who are too busy to be looking for it. JWT API

@@ -9,3 +9,4 @@ DNS Routing Performance A/B Testing Sharding Stay hungry, stay foolish. Containe
 Containerization Framework Agile Edge Computing OAuth Testing Work hard in silence, let your success be your noise. Docker Microservices RabbitMQ Act as if what you do makes a difference. It does.
 Load Balancing Docker JWT The only way to do great work is to love what you do. Simplicity is the ultimate sophistication. CI/CD RabbitMQ Microservices
 Monitoring Opportunities don't happen. You create them. Predictive Analytics JWT Quantum Computing WebSockets OAuth RabbitMQ Cloud Dream big and dare to fail. Automation
+Success is not in what you have, but who you are. Monitoring Firewalls Lambda Functions JavaScript Frontend Database Happiness is not something ready made. It comes from your own actions. Automation JWT Container Orchestration Cloud Docker Pull Request
