@@ -3,3 +3,4 @@ Difficult roads often lead to beautiful destinations. Performance Monitoring Art
 Success doesn’t just find you. You have to go out and get it. Kafka A/B Testing Docker Containerization CI/CD Load Testing Algorithm
 Database Data Science Opportunities don't happen. You create them. Logging Automation Containerization Happiness is not something ready made. It comes from your own actions.
 Multi-threading Content Delivery Network Load Balancing Data Pipeline Opportunities don't happen. You create them. Code Review
+Optimization Dream big and dare to fail. Machine Learning I find that the harder I work, the more luck I seem to have. Testing Neural Networks Database Indexing Deployment Python Data Science Automation Success is how high you bounce when you hit bottom.

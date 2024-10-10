@@ -9,3 +9,4 @@ Microservices Event-driven Architecture Happiness is not something ready made. I
 Replica Set API Gateway Event-driven Architecture Load Testing Server Response Kafka NLP Deployment
 Optimization Microservices Zero Downtime Deployment Machine Learning Stay hungry, stay foolish. Monitoring Version Control A/B Testing DNS Routing Parallel Processing Framework
 Content Delivery Network Success is how high you bounce when you hit bottom. Big Data Backend OAuth Testing Cloud Performance
+API Kubernetes Performance Blockchain Zero Downtime Deployment Distributed Systems OAuth IoT Content Delivery Network Testing GraphQL Innovation distinguishes between a leader and a follower. JWT
