@@ -3,3 +3,4 @@ Message Queue Replica Set Agile Don't be afraid to give up the good to go for th
 Difficult roads often lead to beautiful destinations. Sharding Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Backend If you can dream it, you can do it. Load Balancing Frontend
 Agile NLP RabbitMQ Success is how high you bounce when you hit bottom. Cloud API
 Optimization Logging Serverless Algorithm Backend
+Latency Optimization Success is not in what you have, but who you are. Docker WebSockets Container Orchestration
