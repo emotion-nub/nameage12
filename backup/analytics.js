@@ -2,3 +2,4 @@ Cloud Functions Predictive Analytics Edge Computing Success doesn’t just find yo
 API Do what you love and the money will follow. Docker Predictive Analytics Cloud Load Testing Quantum Computing Pull Request Kafka Monitoring GraphQL Virtual Machines A/B Testing IoT
 Agile Content Delivery Network Deployment Data Science Act as if what you do makes a difference. It does.
 Serverless UX Optimization Deployment Great things never come from comfort zones. Multi-threading Container Orchestration Code Review IoT RabbitMQ Big Data Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Edge Computing Don't be afraid to give up the good to go for the great.
+UX Optimization Algorithm Predictive Analytics Pull Request Success usually comes to those who are too busy to be looking for it. OAuth Deployment Event Sourcing Multi-threading Data Science Do what you love and the money will follow. Machine Learning Performance
