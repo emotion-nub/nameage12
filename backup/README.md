@@ -9,3 +9,4 @@ Act as if what you do makes a difference. It does. Serverless Code Review Replic
 Multi-threading Cache Invalidation Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Lambda Functions Frontend Edge Computing Testing Zero Downtime Deployment Event Sourcing Artificial Intelligence
 IoT NLP JWT Success doesn’t just find you. You have to go out and get it. Container Orchestration Logging Testing Big Data Kafka
 Containerization Multi-threading Kafka Python Database I find that the harder I work, the more luck I seem to have. Docker Logging Message Queue Optimization Blockchain
+Sharding Data Pipeline Parallel Processing Monitoring Database Indexing Work hard in silence, let your success be your noise. Backend RabbitMQ Algorithm
