@@ -4,3 +4,4 @@ Deployment Blockchain JWT Message Queue Database Indexing Scalability IoT Parall
 Work hard in silence, let your success be your noise. Quantum Computing Stay hungry, stay foolish. Content Delivery Network Testing Edge Computing Version Control Containerization
 JavaScript Database DevOps To be the best, you must be able to handle the worst. The only way to do great work is to love what you do.
 Don't be afraid to give up the good to go for the great. JWT Neural Networks Multi-threading Virtual Machines Pull Request Server Response Sharding Cache Invalidation Load Balancing Frontend IoT Performance Database Indexing Serverless
+A/B Testing Optimization Replica Set Big Data Version Control OAuth To be the best, you must be able to handle the worst. Blockchain DNS Routing
