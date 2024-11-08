@@ -3,3 +3,4 @@ Zero Downtime Deployment API Containerization Firewalls Do what you love and the
 Version Control To be the best, you must be able to handle the worst. Success is not in what you have, but who you are. Virtual Machines GraphQL Security Predictive Analytics If you can dream it, you can do it. Microservices Replica Set NLP
 API DNS Routing CI/CD Distributed Systems Code Review Automation Stay hungry, stay foolish. Database Indexing OAuth IoT
 Database Indexing Kafka Great things never come from comfort zones. The only way to do great work is to love what you do. Agile Security Monitoring Predictive Analytics Content Delivery Network A/B Testing Quantum Computing Microservices Database Frontend
+Optimization API Gateway Content Delivery Network Artificial Intelligence Database Indexing Data Pipeline To be the best, you must be able to handle the worst.
