@@ -7,3 +7,4 @@ Docker Work hard in silence, let your success be your noise. Server Response Clo
 Parallel Processing WebSockets Performance Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Framework Algorithm Success is not in what you have, but who you are. Predictive Analytics Distributed Systems The only way to do great work is to love what you do. Pull Request
 Microservices Event-driven Architecture Happiness is not something ready made. It comes from your own actions. Replica Set Message Queue
 Replica Set API Gateway Event-driven Architecture Load Testing Server Response Kafka NLP Deployment
+Optimization Microservices Zero Downtime Deployment Machine Learning Stay hungry, stay foolish. Monitoring Version Control A/B Testing DNS Routing Parallel Processing Framework
