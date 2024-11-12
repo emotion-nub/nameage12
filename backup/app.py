@@ -1,3 +1,4 @@
 Load Testing Data Science Monitoring JavaScript Simplicity is the ultimate sophistication. Kubernetes Quantum Computing Neural Networks Happiness is not something ready made. It comes from your own actions. Parallel Processing DNS Routing Python
 Message Queue Replica Set Agile Don't be afraid to give up the good to go for the great. Frontend OAuth RabbitMQ Work hard in silence, let your success be your noise. Database I find that the harder I work, the more luck I seem to have. To be the best, you must be able to handle the worst. Logging Blockchain Kafka Monitoring
 Difficult roads often lead to beautiful destinations. Sharding Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Backend If you can dream it, you can do it. Load Balancing Frontend
+Agile NLP RabbitMQ Success is how high you bounce when you hit bottom. Cloud API
