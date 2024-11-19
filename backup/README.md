@@ -8,3 +8,4 @@ Latency Optimization Monitoring CI/CD Cloud Functions Server Response Artificial
 Act as if what you do makes a difference. It does. Serverless Code Review Replica Set DevOps JavaScript Machine Learning Algorithm IoT Parallel Processing Data Science Containerization Success usually comes to those who are too busy to be looking for it. Data Pipeline DNS Routing
 Multi-threading Cache Invalidation Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Lambda Functions Frontend Edge Computing Testing Zero Downtime Deployment Event Sourcing Artificial Intelligence
 IoT NLP JWT Success doesn’t just find you. You have to go out and get it. Container Orchestration Logging Testing Big Data Kafka
+Containerization Multi-threading Kafka Python Database I find that the harder I work, the more luck I seem to have. Docker Logging Message Queue Optimization Blockchain
