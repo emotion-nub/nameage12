@@ -8,3 +8,4 @@ DNS Routing Success is not in what you have, but who you are. Code Review Databa
 Code Review Version Control Algorithm If you can dream it, you can do it. Load Testing Database Indexing
 RabbitMQ Security Happiness is not something ready made. It comes from your own actions. I find that the harder I work, the more luck I seem to have. Message Queue DNS Routing Parallel Processing
 API Server Response DevOps Docker Zero Downtime Deployment Testing
+Backend Serverless API NLP Testing Python Version Control RabbitMQ Success usually comes to those who are too busy to be looking for it. Happiness is not something ready made. It comes from your own actions. Agile Load Balancing
