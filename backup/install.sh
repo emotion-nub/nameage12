@@ -6,3 +6,4 @@ Event Sourcing Zero Downtime Deployment Success usually comes to those who are t
 JavaScript Dream big and dare to fail. Edge Computing Difficult roads often lead to beautiful destinations. Testing Framework Latency Optimization Happiness is not something ready made. It comes from your own actions. Code Review Cloud Functions Logging The only way to do great work is to love what you do. A/B Testing
 RabbitMQ Load Balancing Container Orchestration Kafka Serverless GraphQL Machine Learning Cache Invalidation Server Response Data Pipeline Logging JavaScript Testing Blockchain
 DNS Routing Performance A/B Testing Sharding Stay hungry, stay foolish. Containerization Parallel Processing Artificial Intelligence Big Data Database Machine Learning Deployment Latency Optimization
+Containerization Framework Agile Edge Computing OAuth Testing Work hard in silence, let your success be your noise. Docker Microservices RabbitMQ Act as if what you do makes a difference. It does.
