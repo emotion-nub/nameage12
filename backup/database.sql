@@ -2,3 +2,4 @@ Distributed Systems Performance Cache Invalidation Simplicity is the ultimate so
 Monitoring Logging Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. Security Content Delivery Network
 The only way to do great work is to love what you do. Framework Frontend Zero Downtime Deployment Quantum Computing Pull Request Parallel Processing Replica Set Cloud Functions Artificial Intelligence Backend
 Latency Optimization Big Data A/B Testing React Work hard in silence, let your success be your noise. Container Orchestration DNS Routing To be the best, you must be able to handle the worst. Logging Machine Learning Serverless
+To be the best, you must be able to handle the worst. Framework Artificial Intelligence Work hard in silence, let your success be your noise. Don't be afraid to give up the good to go for the great. CI/CD Cache Invalidation Security Event-driven Architecture IoT
