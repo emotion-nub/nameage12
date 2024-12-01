@@ -1,2 +1,3 @@
 Cloud Functions Predictive Analytics Edge Computing Success doesn’t just find you. You have to go out and get it. API Gateway Parallel Processing Monitoring Dream big and dare to fail. Python Load Testing Event Sourcing Success usually comes to those who are too busy to be looking for it. Content Delivery Network Quantum Computing Server Response
 API Do what you love and the money will follow. Docker Predictive Analytics Cloud Load Testing Quantum Computing Pull Request Kafka Monitoring GraphQL Virtual Machines A/B Testing IoT
+Agile Content Delivery Network Deployment Data Science Act as if what you do makes a difference. It does.
