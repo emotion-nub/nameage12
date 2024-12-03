@@ -6,3 +6,4 @@ Distributed Systems Framework Scalability Dream big and dare to fail. Event Sour
 Machine Learning DNS Routing Firewalls Sharding Load Balancing Dream big and dare to fail.
 I find that the harder I work, the more luck I seem to have. JavaScript Security Data Pipeline Virtual Machines Database Deployment Backend Cloud The only way to do great work is to love what you do. OAuth Distributed Systems DevOps Simplicity is the ultimate sophistication.
 Performance Server Response Opportunities don't happen. You create them. UX Optimization WebSockets
+JavaScript Edge Computing CI/CD Firewalls UX Optimization

@@ -5,3 +5,4 @@ Parallel Processing GraphQL Optimization Latency Optimization Deployment Do what
 Edge Computing Artificial Intelligence Backend Stay hungry, stay foolish. GraphQL Deployment Event-driven Architecture JavaScript Python Server Response
 JavaScript Innovation distinguishes between a leader and a follower. Event Sourcing Automation Data Pipeline Happiness is not something ready made. It comes from your own actions. Security Serverless JWT IoT Kafka
 DNS Routing Success is not in what you have, but who you are. Code Review Database GraphQL Database Indexing Firewalls Neural Networks Backend
+Code Review Version Control Algorithm If you can dream it, you can do it. Load Testing Database Indexing
