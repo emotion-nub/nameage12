@@ -5,3 +5,4 @@ Event Sourcing The only way to do great work is to love what you do. Containeriz
 Framework Big Data Agile GraphQL Do what you love and the money will follow.
 Cloud Functions DNS Routing Replica Set Act as if what you do makes a difference. It does. JWT Stay hungry, stay foolish. Quantum Computing CI/CD Happiness is not something ready made. It comes from your own actions. Content Delivery Network Data Science A/B Testing Docker Algorithm DevOps
 Latency Optimization Monitoring CI/CD Cloud Functions Server Response Artificial Intelligence Docker Big Data Firewalls JWT
+Act as if what you do makes a difference. It does. Serverless Code Review Replica Set DevOps JavaScript Machine Learning Algorithm IoT Parallel Processing Data Science Containerization Success usually comes to those who are too busy to be looking for it. Data Pipeline DNS Routing
