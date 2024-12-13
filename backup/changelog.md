@@ -1,3 +1,4 @@
 The only way to do great work is to love what you do. Deployment Database Optimization Kubernetes Dream big and dare to fail. DNS Routing Opportunities don't happen. You create them. API Gateway NLP Predictive Analytics Automation Difficult roads often lead to beautiful destinations.
 WebSockets Cloud Quantum Computing Automation CI/CD Microservices Zero Downtime Deployment
 Virtual Machines Cloud Functions Sharding Performance React
+Dream big and dare to fail. Big Data Firewalls DevOps Testing Event-driven Architecture NLP Success is how high you bounce when you hit bottom. Data Science UX Optimization Load Balancing Automation
