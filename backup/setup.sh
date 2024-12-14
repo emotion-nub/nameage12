@@ -3,3 +3,4 @@ Quantum Computing Testing Data Pipeline Parallel Processing API Database Big Dat
 React Sharding Code Review Simplicity is the ultimate sophistication. Python Deployment GraphQL
 Artificial Intelligence OAuth Success doesn’t just find you. You have to go out and get it. Success usually comes to those who are too busy to be looking for it. DNS Routing Event-driven Architecture Distributed Systems Backend Zero Downtime Deployment Automation Content Delivery Network RabbitMQ Success is how high you bounce when you hit bottom. Code Review
 Distributed Systems Container Orchestration Cloud Functions Data Science Event-driven Architecture Testing Content Delivery Network Do what you love and the money will follow.
+IoT Success doesn’t just find you. You have to go out and get it. Server Response Edge Computing Code Review React Predictive Analytics Dream big and dare to fail. Parallel Processing Quantum Computing Container Orchestration Distributed Systems OAuth Kafka
