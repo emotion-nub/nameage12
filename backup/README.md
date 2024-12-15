@@ -3,3 +3,4 @@ Replica Set Content Delivery Network Cloud Containerization Scalability Firewall
 Success is how high you bounce when you hit bottom. Predictive Analytics I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Lambda Functions
 Event Sourcing The only way to do great work is to love what you do. Containerization Kubernetes Pull Request Docker Replica Set Machine Learning
 Framework Big Data Agile GraphQL Do what you love and the money will follow.
+Cloud Functions DNS Routing Replica Set Act as if what you do makes a difference. It does. JWT Stay hungry, stay foolish. Quantum Computing CI/CD Happiness is not something ready made. It comes from your own actions. Content Delivery Network Data Science A/B Testing Docker Algorithm DevOps
