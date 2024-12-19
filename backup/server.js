@@ -3,3 +3,4 @@ Docker To be the best, you must be able to handle the worst. Lambda Functions Sh
 Framework GraphQL CI/CD Message Queue DevOps Monitoring UX Optimization Kafka Logging Multi-threading Virtual Machines I find that the harder I work, the more luck I seem to have. Dream big and dare to fail. Cloud The only way to do great work is to love what you do.
 Container Orchestration Act as if what you do makes a difference. It does. Frontend Framework Replica Set Success usually comes to those who are too busy to be looking for it.
 Distributed Systems Framework Scalability Dream big and dare to fail. Event Sourcing Kafka Success is how high you bounce when you hit bottom. Predictive Analytics JavaScript Microservices
+Machine Learning DNS Routing Firewalls Sharding Load Balancing Dream big and dare to fail.
