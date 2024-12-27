@@ -2,3 +2,4 @@ Success is not in what you have, but who you are. Load Balancing DevOps Don't be
 Replica Set Content Delivery Network Cloud Containerization Scalability Firewalls Big Data Great things never come from comfort zones.
 Success is how high you bounce when you hit bottom. Predictive Analytics I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Lambda Functions
 Event Sourcing The only way to do great work is to love what you do. Containerization Kubernetes Pull Request Docker Replica Set Machine Learning
+Framework Big Data Agile GraphQL Do what you love and the money will follow.
