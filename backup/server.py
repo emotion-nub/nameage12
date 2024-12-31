@@ -2,3 +2,4 @@ Distributed Systems Logging Load Testing A/B Testing Act as if what you do makes
 Monitoring A/B Testing Code Review Zero Downtime Deployment CI/CD Predictive Analytics Scalability IoT Frontend Blockchain Artificial Intelligence Difficult roads often lead to beautiful destinations.
 Data Science Predictive Analytics Kafka Kubernetes IoT Dream big and dare to fail. Load Balancing NLP Message Queue Version Control Success is how high you bounce when you hit bottom. Data Pipeline Optimization Do what you love and the money will follow.
 Parallel Processing GraphQL Optimization Latency Optimization Deployment Do what you love and the money will follow. Content Delivery Network Performance Kafka Load Balancing
+Edge Computing Artificial Intelligence Backend Stay hungry, stay foolish. GraphQL Deployment Event-driven Architecture JavaScript Python Server Response
