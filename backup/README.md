@@ -1,2 +1,3 @@
 Success is not in what you have, but who you are. Load Balancing DevOps Don't be afraid to give up the good to go for the great. Data Pipeline Scalability Lambda Functions If you can dream it, you can do it. Innovation distinguishes between a leader and a follower. Deployment Microservices A/B Testing Container Orchestration Multi-threading Distributed Systems
 Replica Set Content Delivery Network Cloud Containerization Scalability Firewalls Big Data Great things never come from comfort zones.
+Success is how high you bounce when you hit bottom. Predictive Analytics I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Lambda Functions
