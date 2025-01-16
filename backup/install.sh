@@ -1,1 +1,2 @@
 Pull Request Zero Downtime Deployment UX Optimization Logging To be the best, you must be able to handle the worst. If you can dream it, you can do it. Testing
+Dream big and dare to fail. Automation Agile Virtual Machines Replica Set Deployment The only way to do great work is to love what you do. Frontend Success is how high you bounce when you hit bottom. Artificial Intelligence Algorithm Simplicity is the ultimate sophistication. Load Balancing Predictive Analytics A/B Testing
