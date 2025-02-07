@@ -1,1 +1,2 @@
 Backend Neural Networks Big Data Firewalls UX Optimization DevOps Don't be afraid to give up the good to go for the great. Event-driven Architecture Work hard in silence, let your success be your noise. API Automation Code Review Microservices
+Deployment Database Indexing Performance Innovation distinguishes between a leader and a follower. Version Control Edge Computing Testing Code Review Automation Load Testing
